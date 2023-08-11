@@ -57,8 +57,6 @@ import java.util.Set;
  * NOTE: Both teacher Ms. Goodall and student Jessica Williams would not be included in the
  * results. This is because there is no matching record in the opposite table for either of those records. (There is
  * no art teacher, and there are no students taking biology.)
- *
- * Additional reference material if needed: https://www.w3schools.com/sql/sql_join_inner.asp
  */
 public class InnerJoinActivity {
     /**
